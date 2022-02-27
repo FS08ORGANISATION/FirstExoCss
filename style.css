@@ -1,0 +1,29 @@
+.couleur{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.couleur .bleu{
+   color: blue; 
+}
+.couleur .rouge{
+    color: red;
+}
+.couleur .vert{
+    color: green;
+}
+.fond{
+    font-family: monospace;
+}
+.fond .bleu{
+   background-color: blue; 
+}
+.fond .rouge{
+    background-color: red;
+}
+.fond .vert{
+    background-color: green;
+}
+.foot{
+    font-family: monospace;
+    text-align: center;
+    font-size: 10px;
+}
